@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Code wird generiert.
+C:\Users\p3nz1\source\repos\Poe Betrayal Planner 1\main.cpp(332): warning C4717: "master_check": Rekursiv für alle Steuerelementpfade. Die Funktion verursacht einen Stapelüberlauf zur Laufzeit.
+  3 of 146 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Poe Betrayal Planner 1.vcxproj -> C:\Users\p3nz1\source\repos\Poe Betrayal Planner 1\Release\Poe Betrayal Planner 1.exe
